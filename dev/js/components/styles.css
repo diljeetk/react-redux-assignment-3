@@ -1,0 +1,49 @@
+.shift-box {
+ border: 1px solid grey;
+ margin-top: 40px;
+ border-radius: 10px;
+ min-height: 61px;
+ padding-bottom: 10px;
+}
+.box-hdr{
+    margin-left: 10px;
+}
+.cal-style {
+    margin-top: 35px;
+}
+.main-style{
+margin-top: 40px;
+border-top: 1px solid grey;
+
+
+}
+#root{
+    background-color: lightgray;
+}
+.bttn-style1{
+    margin-bottom: 10px;
+}
+.view-bttn-dt{
+text-align: center;
+}
+.label-txt {
+    font-size: 10px;
+}
+.set-part2 {
+    margin-bottom: 25px
+}
+.time-pill-1 {
+    padding: 25px;
+    margin: 10px;
+}
+.heading-style {
+    position: absolute;
+    padding-top: 10px;
+}
+.timepill-space {
+    margin-right: 20px;
+}
+.shift-heading-space {
+    margin-right: 9px;
+    padding-top: 18px;
+}
